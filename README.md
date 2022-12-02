@@ -1,4 +1,4 @@
-# `template`
+# `current-year`
 
-Template to create web plugins in the GV style
-[Docs page](greenvision.media/docs/scripting/)
+Inserts the current year into a <span>
+[Docs page](greenvision.media/docs/scripting/#current-year)
